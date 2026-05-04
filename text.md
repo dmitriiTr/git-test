@@ -1,1 +1,4 @@
 - "Spice must flow"
+- "Fear is a mind killer"
+- "May thy knife chip and shatter"
+- "When is a gift not a gift?"
